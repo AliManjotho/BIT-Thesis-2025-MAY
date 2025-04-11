@@ -43,7 +43,7 @@ tlmgr update bithesis
 ![typebox](./assets/linebreak-after.jpg)
 
 
-#### 3. Correct titles for list fo figures and tables in bithesis.cls file.
+#### 3. Correct titles for list of figures and tables in bithesis.cls file.
 ![typebox](./assets/list-before.png)
 ![typebox](./assets/list-after.png)
 
