@@ -38,12 +38,6 @@ tlmgr update bithesis
 ## Further Changes to make
 
 To add special type box in cover pages, add the below line of code in main.tex file.
-```
-  \BITSetup{
-    cover = {
-      …  
-      autoWidthPadding = 0.25em,
-    + showSpecialTypeBox = true,
-    },
-```
+
+<pre> ```diff \BITSetup{ cover = { … autoWidthPadding = 0.25em, + showSpecialTypeBox = true, }, } ``` </pre>
 
