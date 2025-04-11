@@ -1,5 +1,5 @@
 # BIT-Thesis-2025-MAY
-The latest latex template for BIT-Thesis submission (Masters and PhD) (MAY 2025), It is the fork of "https://bithesis.bitnp.net" with some adjustments.
+The latest latex template for BIT-Thesis submission (Masters and PhD) (MAY 2025). This is the fork of "https://bithesis.bitnp.net" with some adjustments.
 
 ## Setup the environment
 1. Download TexLive
