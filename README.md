@@ -57,7 +57,7 @@ Two concecussive citations should appear as  [1,2] but in the original template 
 ```
 C:\texlive\2025\texmf-dist\tex\latex\biblatex-gb7714-2015\
 ```
-* Open the file gb7714-2015.cbx in any editor. 
+* Open the file <kbd>gb7714-2015.cbx</kbd> in any editor. 
 * Do the following modifications.
 
 ![typebox](./assets/cite1-before.png)
