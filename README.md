@@ -49,6 +49,8 @@ tlmgr update bithesis
 
 #### 4. Correct citation style for 2 successive referencesin gb7714-2015.cbx file.
 
+Workaround suggested by Tekie Tsegay Tewolde.
+
 Two concecussive citations should appear as  [1,2] but in the original template they appear as [1-2].
 
 * Go the the following directory:
