@@ -1,12 +1,12 @@
 # BIT-Thesis-2025-MAY
-The latest latex template for BIT-Thesis submission (Masters and PhD) (MAY 2025). This is the fork of "https://bithesis.bitnp.net" with some adjustments.
+The latest latex template for BIT-Thesis submission (Masters and PhD) (MAY 2025). This is the fork of <kbd>"https://bithesis.bitnp.net"</kbd> with some adjustments.
 
 ## Setup the environment
 1. Download TexLive
 ```
 https://eu.mirrors.cicku.me/ctan/systems/texlive/Images/texlive2025.iso
 ```
-3. Install TexLive by running install-tl-windows.exe
+3. Install TexLive by running <kbd>install-tl-windows.exe</kbd>
 4. Confirm installation
 5. Open PowerShell for Windows and run following commands one-by-one
 
@@ -35,11 +35,11 @@ tlmgr update bithesis
 
 # IMPORTANT (Further changes to make)
 
-#### 1. To add special type box in cover pages, add the below line of code in main.tex file.
+#### 1. To add special type box in cover pages, add the below line of code in <kbd>main.tex file</kbd>.
 ![typebox](./assets/typebox.jpg)
 ![typebox](./assets/typebox-snap.jpg)
 
-#### 2. Add page break in between originallity and authorization page by making following changes in bithesis.cls file.
+#### 2. Add page break in between originallity and authorization page by making following changes in <kbd>bithesis.cls</kbd> file.
 ![typebox](./assets/linebreak-after.jpg)
 
 
@@ -47,9 +47,9 @@ tlmgr update bithesis
 ![typebox](./assets/list-before.png)
 ![typebox](./assets/list-after.png)
 
-#### 4. Correct citation style for 2 successive referencesin gb7714-2015.cbx file.
+#### 4. Correct citation style for 2 successive referencesin <kbd>gb7714-2015.cbx</kbd> file.
 
-Workaround suggested by Tekie Tsegay Tewolde.
+Workaround suggested by **Tekie Tsegay Tewolde**.
 
 Two concecussive citations should appear as  [1,2] but in the original template they appear as [1-2].
 
