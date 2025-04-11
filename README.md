@@ -1,9 +1,6 @@
 # BIT-Thesis-2025-MAY
 The latest latex template for BIT-Thesis submission (Masters and PhD) (MAY 2025), It is the fork of "https://bithesis.bitnp.net" with some adjustments.
 
-# BIT-Thesis-Latex (English Version)
-The latex template for BIT-Thesis submission (Masters and PhD) (English Version)
-
 ## Setup the environment
 1. Download TexLive
 ```
@@ -39,4 +36,14 @@ tlmgr update bithesis
 # IMPORTANT
 
 ## Further Changes to make
+
+To add special type box in cover pages, add the below line of code in main.tex file.
+```
+  \BITSetup{
+    cover = {
+      …  
+      autoWidthPadding = 0.25em,
+    + showSpecialTypeBox = true,
+    },
+```
 
