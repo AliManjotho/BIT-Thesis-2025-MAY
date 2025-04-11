@@ -41,3 +41,8 @@ tlmgr update bithesis
 
 #### 2. Add page break in between originallity and authorization page by making following changes in bithesis.cls file.
 ![typebox](./assets/linebreak-after.jpg)
+
+
+#### 3. Correct titles for list fo figures and tables in bithesis.cls file.
+![typebox](./assets/list-before.jpg)
+![typebox](./assets/list-after.jpg)
