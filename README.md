@@ -33,7 +33,7 @@ tlmgr update bithesis
 \documentclass[type=doctor,twoside=false, english=true, blindPeerReview=true]{bithesis}
 ```
 
-# IMPORTANT (Further Changes to make)
+# IMPORTANT (Further changes to make)
 
 #### 1. To add special type box in cover pages, add the below line of code in main.tex file.
 ![typebox](./assets/typebox.jpg)
@@ -44,5 +44,5 @@ tlmgr update bithesis
 
 
 #### 3. Correct titles for list fo figures and tables in bithesis.cls file.
-![typebox](./assets/list-before.jpg)
-![typebox](./assets/list-after.jpg)
+![typebox](./assets/list-before.png)
+![typebox](./assets/list-after.png)
