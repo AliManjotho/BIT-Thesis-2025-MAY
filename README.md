@@ -39,15 +39,19 @@ tlmgr update bithesis
 ![typebox](./assets/typebox.jpg)
 ![typebox](./assets/typebox-snap.jpg)
 
-#### 2. Add page break in between originallity and authorization page by making following changes in <kbd>bithesis.cls</kbd> file.
+#### 2. In the same file do the following changes.
+![typebox](./assets/figtab-before.png)
+![typebox](./assets/figtab-after.png)
+
+#### 3. Add page break in between originallity and authorization page by making following changes in <kbd>bithesis.cls</kbd> file.
 ![typebox](./assets/linebreak-after.jpg)
 
 
-#### 3. Correct titles for list of figures and tables in bithesis.cls file.
+#### 4. Correct titles for the list of figures and tables in bithesis.cls file.
 ![typebox](./assets/list-before.png)
 ![typebox](./assets/list-after.png)
 
-#### 4. Correct citation style for 2 successive referencesin <kbd>gb7714-2015.cbx</kbd> file.
+#### 5. Correct citation style for 2 successive referencesin <kbd>gb7714-2015.cbx</kbd> file.
 
 Workaround suggested by **Tekie Tsegay Tewolde**.
 
