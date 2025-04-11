@@ -40,5 +40,4 @@ tlmgr update bithesis
 ![typebox](./assets/typebox-snap.jpg)
 
 #### 2. Add page break in between originallity and authorization page by making following changes in bithesis.cls file.
-![typebox](./assets/linebreak-before.jpg)
 ![typebox](./assets/linebreak-after.jpg)
