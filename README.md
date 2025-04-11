@@ -46,3 +46,20 @@ tlmgr update bithesis
 #### 3. Correct titles for list fo figures and tables in bithesis.cls file.
 ![typebox](./assets/list-before.png)
 ![typebox](./assets/list-after.png)
+
+#### 4. Correct citation style for 2 successive referencesin gb7714-2015.cbx file.
+
+Two concecussive citations should appear as  [1,2] but in the original template they appear as [1-2].
+
+* Go the the following directory:
+```
+C:\texlive\2025\texmf-dist\tex\latex\biblatex-gb7714-2015\
+```
+* Open the file gb7714-2015.cbx in any editor. 
+* Do the following modifications.
+
+![typebox](./assets/cite1-before.png)
+![typebox](./assets/cite1-after.png)
+![typebox](./assets/cite2-before.png)
+![typebox](./assets/cite2-after.png)
+
