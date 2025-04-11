@@ -38,6 +38,8 @@ tlmgr update bithesis
 ## Further Changes to make
 
 To add special type box in cover pages, add the below line of code in main.tex file.
-![typebox]('assets/typebox.jpg')
+
+![typebox](./assets/typebox.jpg)
+
 
 bithesis.cls
